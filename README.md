@@ -1,6 +1,6 @@
-# Distributed Stochastic Gradient Descent Matrix Factorization using Spark
+# DSGD Matrix Factorization using Spark
 
-## Author 
+## 
 Siqi Wang (siqiw@andrew.cmu.edu)
 
 ## Usage
